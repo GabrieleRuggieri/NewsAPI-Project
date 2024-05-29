@@ -15,6 +15,9 @@ Il database è costruito utilizzando MySQL e contiene due entità principali:
 
 Le entità Utente e News hanno una relazione molti a molti. Ogni utente può avere le proprie notizie salvate, e ogni notizia può essere associata a più utenti.
 
+
+![Screenshot 2024-05-29 181508](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/fcf17149-9171-49dc-bc29-00eabecf5367)
+
 ### Backend
 Il backend è sviluppato con Spring Boot e fornisce le seguenti funzionalità:
 - Registrazione degli utenti.
@@ -29,3 +32,39 @@ Il frontend è sviluppato con React e offre le seguenti funzionalità:
 - Interfaccia utente per la ricerca di notizie.
 - Visualizzazione delle notizie salvate dall'utente.
 - Visualizzazione dell'account utente.
+
+
+
+![Screenshot 2024-05-29 181203](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/b356af63-548b-4b32-ac6f-4ec4a11517f1)
+
+
+
+
+
+![Screenshot 2024-05-29 181210](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/97dd2f1a-788d-4eaa-9959-32de57241b01)
+
+
+
+
+
+![Screenshot 2024-05-29 181227](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/8745cf88-b829-481b-ab33-294d205770c4)
+
+
+
+
+
+
+![Screenshot 2024-05-29 181243](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/6d063186-f8e0-4439-88bc-3f3ed8c8f2d2)
+
+
+
+
+![Screenshot 2024-05-29 181403](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/16e4ecfa-0bc1-4e05-ada1-02950686fe77)
+
+
+
+
+
+
+
+![Screenshot 2024-05-29 181414](https://github.com/GabrieleRuggieri/NewsAPI-Project/assets/125048968/88eb8fcf-51dc-486a-90bd-6fe623b8c992)
