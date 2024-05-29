@@ -3,6 +3,9 @@
 ## Descrizione
 Questo progetto utilizza una API per la ricerca di notizie secondo un tema e dei filtri scelti dall'utente. Gli utenti possono salvare le proprie notizie preferite e visualizzarle successivamente.
 
+## API utilizzata
+Link: https://newsapi.org/
+
 ## Struttura del Progetto
 
 ### Database
