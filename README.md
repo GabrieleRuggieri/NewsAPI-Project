@@ -24,7 +24,10 @@ Le entità Utente e News hanno una relazione molti a molti. Ogni utente può ave
 <br><br>
 
 ### Backend
+Restful Web Services (specifica JAX-RS)
+<br>
 Il backend è sviluppato con Spring Boot e fornisce le seguenti funzionalità:
+
 - Registrazione degli utenti.
 - Autenticazione degli utenti mediante JWT (JSON Web Token).
 - Gestione Logout utente
