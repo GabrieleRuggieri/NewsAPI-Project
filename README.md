@@ -27,6 +27,7 @@ Le entità Utente e News hanno una relazione molti a molti. Ogni utente può ave
 Il backend è sviluppato con Spring Boot e fornisce le seguenti funzionalità:
 - Registrazione degli utenti.
 - Autenticazione degli utenti mediante JWT (JSON Web Token).
+- Gestione Logout utente
 - Gestione delle news, quindi ricerca, salvataggio e eliminazione.
 - Gestione delle relazioni tra utenti e news.
 
@@ -39,6 +40,7 @@ Il frontend è sviluppato con React e offre le seguenti funzionalità:
 - Interfaccia utente per la ricerca di notizie.
 - Visualizzazione delle notizie salvate dall'utente.
 - Visualizzazione dell'account utente.
+- Button per il logout dell'utente
 
 <br><br>
 
