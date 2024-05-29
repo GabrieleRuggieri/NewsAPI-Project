@@ -1,0 +1,32 @@
+.cardContainer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+/* .cardContainer:hover> :not(:hover) {
+    opacity: 0.4;
+} */
+
+.newsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(245, 245, 245);
+    min-height: 100vh;
+}
+
+.cardContainer p {
+    padding-top: 2rem;
+}
+
+.newsContainer p{
+    padding-top: 2rem;
+}

@@ -1,0 +1,28 @@
+.savedContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(245, 245, 245);
+    min-height: 100vh;
+}
+
+.cardContainer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.cardContainer p {
+    padding-top: 2rem;
+}
+
+.savedContainer p {
+    padding-top: 2rem;
+}

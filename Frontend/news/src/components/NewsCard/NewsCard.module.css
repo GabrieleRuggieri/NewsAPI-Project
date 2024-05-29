@@ -1,0 +1,36 @@
+.card {
+    margin-bottom: 2rem;
+    width: 30%;
+    z-index: 1;
+    margin: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* transition: opacity 0.6s ease; */
+}
+
+.cardTransition {
+    transition: transform 0.3s ease-in-out;
+}
+
+.cardTransition:hover {
+    transform: scale(1.02);
+    z-index: 2;
+}
+
+/* .imageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+} */
+
+.image {
+    max-width: 300px;
+    height: auto;
+    max-height: 300px;
+    width: auto;
+    border-radius: .3rem;
+}
+
+.balance {
+    text-wrap: balance;
+}

@@ -1,0 +1,50 @@
+.nav {
+    font-family: "Inconsolata", monospace;
+    margin-top: 4rem;
+    margin-left: 7.7rem;
+    text-transform: uppercase;
+  }
+  
+  .display {
+    margin-top: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(32.5rem, 1fr));
+  }
+  
+  .display__img>img {
+    width: 100%;
+  }
+  
+  .display__content {
+    margin-left: 5rem;
+  }
+  
+  .display__content--info {
+    font-size: 6rem;
+    line-height: 1.2;
+  }
+  
+  .display__content--text {
+    margin-top: 1.5rem;
+    font-family: "Space Mono", monospace;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.7;
+    width: 40rem;
+  }
+  
+  .btn {
+    /* margin-top: 5rem; */
+    font-family: "Space Mono", monospace;
+    color: #fff;
+    background-color: #333333;
+    border: none;
+    outline: none;
+    padding: 2rem 4rem;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
