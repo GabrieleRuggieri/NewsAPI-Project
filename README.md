@@ -38,7 +38,7 @@ Il frontend è sviluppato con React e offre le seguenti funzionalità:
 - Visualizzazione delle notizie salvate dall'utente.
 - Visualizzazione dell'account utente.
 
-- <br><br>
+<br><br>
 
 
 
