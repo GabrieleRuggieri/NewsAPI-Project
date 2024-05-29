@@ -6,6 +6,8 @@ Questo progetto utilizza una API per la ricerca di notizie secondo un tema e dei
 ## API utilizzata
 Link: https://newsapi.org/
 
+<br><br>
+
 ## Struttura del Progetto
 
 ### Database
