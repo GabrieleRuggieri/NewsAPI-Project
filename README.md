@@ -31,7 +31,7 @@ Il backend è sviluppato con Spring Boot e fornisce le seguenti funzionalità:
 - Gestione delle news, quindi ricerca, salvataggio e eliminazione.
 - Gestione delle relazioni tra utenti e news.
 
-<br><br><br><br>
+<br><br><br>
 
 ### Frontend
 Il frontend è sviluppato con React e offre le seguenti funzionalità:
